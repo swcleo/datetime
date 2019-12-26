@@ -1,6 +1,6 @@
 {
   "name": "datetime",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "time & date library.",
   "main": "dist/datetime.js",
   "scripts": {
