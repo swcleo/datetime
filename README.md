@@ -1,4 +1,4 @@
-# datetime
+# datetime [![Build Status](https://travis-ci.org/swcleo/datetime.svg?branch=master)](https://travis-ci.org/swcleo/datetime)
 
 日期時間小工具，對應時區的概念([TIMEZONE](https://www.timeanddate.com/time/map/))，忽略日光節約時間的時差，。
 
